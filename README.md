@@ -1,5 +1,12 @@
 # Healthcare Analytics Dashboard Project
 
+## Dashboard Preview
+
+[![Power BI Dashboard](/images/Healthcare_Analytics_PBI_report.png)](https://app.powerbi.com/reportEmbed?reportId=59d86ea7-88c4-488a-80df-1548d7b5aa16&autoAuth=true&ctid=9673e9a8-aa57-4461-9336-5fd3f0034e18 "Click to view the full dashboard")
+
+Click the image above to access the full interactive Power BI dashboard.
+
+
 ## Project Overview
 This repository contains the Power BI project files and scripts for a healthcare analytics dashboard designed to enhance decision-making in healthcare settings. The project facilitates the migration of healthcare data from Excel to a SQL database and employs Power BI for in-depth data visualization and analysis.
 
